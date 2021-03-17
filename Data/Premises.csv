@@ -1,0 +1,33 @@
+ID_Building;ID_Premise;Adress;Name;Surface;Milies;Sub_water_meter;Water;Electricity;Waste_taxe;Building_cleaning;Provisional_charges
+1;101;Rue des remparts, 33000 Bordeaux;TRESOR;56,8;66;0;1;1;1;0;0
+1;102;Rue des remparts, 33000 Bordeaux;CARRE;54,8;55;0;1;1;1;0;0
+1;103;Rue des remparts, 33000 Bordeaux;PORTE 5;35,1;50;0;1;1;1;1;38
+1;104;Rue des remparts, 33000 Bordeaux;PORTE 6;26,2;37;0;1;1;1;1;25
+1;105;Rue des remparts, 33000 Bordeaux;PORTE 7;37,9;51;0;1;1;1;1;25
+1;106;Rue des remparts, 33000 Bordeaux;PORTE 13;45,4;62;0;1;1;1;1;25
+1;107;Rue des remparts, 33000 Bordeaux;PORTE 14;27,4;41;0;1;1;1;1;25
+1;108;Rue des remparts, 33000 Bordeaux;PORTE 17;35,5;48;0;1;1;1;1;25
+1;109;Rue des remparts, 33000 Bordeaux;PORTE 19;34,6;45;0;1;1;1;1;25
+1;110;Rue des remparts, 33000 Bordeaux;PORTE 20;28,9;29;0;1;1;1;1;25
+1;111;Rue des remparts, 33000 Bordeaux;PORTE 23;17,3;18;0;1;1;1;1;25
+2;201;Cours Portal, 33000 Bordeaux;Pharma;80,5;;1;0;0;1;0;0
+2;202;Cours Portal, 33000 Bordeaux;Archi;80;;1;1;1;1;0;35
+2;203;Cours Portal, 33000 Bordeaux;T3 2eme étage;72,5;;1;1;1;1;0;20
+2;204;Cours Portal, 33000 Bordeaux;Studio;27;;1;1;1;1;0;25
+3;301;Place des Chartrons, 33000 Bordeaux;Pharma;80,5;;1;0;0;1;0;0
+3;302;Place des Chartrons, 33000 Bordeaux;T3 1er étage;80;;1;0;1;1;0;20
+3;303;Place des Chartrons, 33000 Bordeaux;T3 2eme étage;78;;1;1;1;1;0;45
+4;401;Rue Servandoni, 33000 Bordeaux;T2 RDC Gauche;35;;0;1;0;1;0;25
+4;402;Rue Servandoni, 33000 Bordeaux;T2 RDC Droite;35;;0;1;0;1;0;25
+4;403;Rue Servandoni, 33000 Bordeaux;T3 1er étage;75;;0;1;0;1;0;25
+4;404;Rue Servandoni, 33000 Bordeaux;T1 2eme étage Gauche;30;;0;1;0;1;0;25
+4;405;Rue Servandoni, 33000 Bordeaux;T1 2eme étage Droite;30;;0;1;0;1;0;25
+5;501;Rue des Chenes Lièges 33000 Bordeaux;T2 4eme à gauche;35;;1;1;0;1;0;25
+5;502;Rue des Chenes Lièges 33000 Bordeaux;T2 Bis 3eme à gauche;45;;1;1;0;1;0;25
+5;503;Rue des Chenes Lièges 33000 Bordeaux;T2 Bis 2eme à gauche;45;;1;1;0;1;0;25
+5;504;Rue des Chenes Lièges 33000 Bordeaux;T2 Bis 1ere à gauche;45;;1;1;0;1;0;25
+5;505;Rue des Chenes Lièges 33000 Bordeaux;T1 à Droite;30;;0;1;0;1;0;25
+5;506;Rue des Chenes Lièges 33000 Bordeaux;T3 en Face;30;;1;1;0;1;0;25
+5;507;Rue des Chenes Lièges 33000 Bordeaux;T3 au fond à Droite;30;;1;1;0;1;0;25
+6;601;Rue Emile Dreux;Echoppe;104;;1;0;0;1;0;0
+7;701;Rue Salvador Allende, 33130 Bègles;Echoppe;45;;1;0;0;1;0;0
