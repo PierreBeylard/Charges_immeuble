@@ -10,3 +10,5 @@ premises : data sur les locaux
 base_charges : fichier data sur les factures deja enregistrées concernant les charges 
 
 ChargesImmeuble.xmi : diagramme du programme 
+meter reading.xlsx: data on the meter reading 
+
